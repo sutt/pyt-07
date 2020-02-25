@@ -23,6 +23,7 @@ Tuesday/Thursday: 6:00-6:30
 
 ## Quick Links
  [Repl.it](https://repl.it/@GAcoding/blank-repl)
+ [Install Instructions](https://presentations.generalassemb.ly/6820a2bdaff917e473032f5d1d2e42ba#/)
 
 
 ## Course Details
@@ -52,7 +53,7 @@ Optional topics you may consider adding on to extend learning (provided your stu
 
 | Lesson # (Week:Day) | In Class                                                                                                                                                                                                                                                                                                                                              |   | Homework                                                                                                                                                                              |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lesson 1 (w1:d1)    | [Confirm Python 3 Installation](unit-0-prework/instructor-resources/01-local-python),[Welcome](unit-1-variables/instructor-resources/01-welcome) and [Variables](unit-1-variables/instructor-resources/02-variables)                                                                                                                                  |   | Homework: Declaring variables in a local file.    |
+| Lesson 1 (w1:d1)    | [Welcome](https://presentations.generalassemb.ly/8fabf89c4d2bdf727c4cbc283a75e653)  [Variables](https://presentations.generalassemb.ly/3de0bce4378727f2d2dd9d3e33be28e5)                        [Confirm Python 3 Installation](https://presentations.generalassemb.ly/7a75f869246d313c5368f4ef844f164c)                                                                                                           |   | Homework: Declaring variables in a local file.    |
 | Lesson 2 (w1:d2)    | Unit Lab 1: Variables, Conditionals, Lists                                                                                                                             |   | Homework: Using `if` and `else`          |
 | Lesson 3 (w2:d1)    | Loops, Functions                                                                                                                                                                                                                        |   | Homework: Using lists, `if/elif/else`, and `for/while`                                                                   |
 |                     Lesson 4 (w2:d2)    | Advanced Function Arguments, Unit Lab 2: Control Flow                                                                                                                                                                |   | Homework: `if`, `for`, and list functions AND one myGA Lesson: Objects and Classes                                                                                   |
@@ -62,7 +63,7 @@ Optional topics you may consider adding on to extend learning (provided your stu
 | Lesson 8 (w4:d2)    | Unit Lab 4: Troubleshooting, Introduction to Intermediate Python, Scripting |   | Homework: Scripting, File I/O, and Lists                                                |
 | Lesson 9 (w5:d1)    | Modules and Libraries                                                                                                                                                     |   | Homework: Modules and Libraries                                                                                          |
 | Lesson 10 (w5:d2)   | APIs, Review                                                                                                                                                                                                                                                                                      |   | Homework: APIs and String Formatting             |
-                                                                                                                                                                            |
+                                                                                        
 ---
 
 ## Appendix: Materials and Resources
